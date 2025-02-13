@@ -52,3 +52,6 @@
 [submodule "ccip-rebase-token/lib/ccip"]
 	path = ccip-rebase-token/lib/ccip
 	url = https://github.com/smartcontractkit/ccip
+[submodule "airdrop-signatures/lib/forge-std"]
+	path = airdrop-signatures/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
