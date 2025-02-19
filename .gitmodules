@@ -55,3 +55,12 @@
 [submodule "airdrop-signatures/lib/forge-std"]
 	path = airdrop-signatures/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "airdrop-signatures/lib/openzeppelin-contracts"]
+	path = airdrop-signatures/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "airdrop-signatures/lib/murky"]
+	path = airdrop-signatures/lib/murky
+	url = https://github.com/dmfxyz/murky
+[submodule "airdrop-signatures/lib/foundry-devops"]
+	path = airdrop-signatures/lib/foundry-devops
+	url = https://github.com/cyfrin/foundry-devops
