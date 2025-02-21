@@ -76,3 +76,6 @@
 [submodule "upgradeables-proxies/lib/foundry-devops"]
 	path = upgradeables-proxies/lib/foundry-devops
 	url = https://github.com/chainaccelorg/foundry-devops
+[submodule "account-abstraction/lib/forge-std"]
+	path = account-abstraction/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
