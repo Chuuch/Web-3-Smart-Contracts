@@ -88,3 +88,6 @@
 [submodule "account-abstraction/lib/foundry-devops"]
 	path = account-abstraction/lib/foundry-devops
 	url = https://github.com/cyfrin/foundry-devops
+[submodule "dao-governance/lib/forge-std"]
+	path = dao-governance/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
